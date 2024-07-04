@@ -2,6 +2,7 @@
 - 🏫 I'm currently an undergraduate at the University of Washington studying Informatics on the software engineering track!
 - 📥 I'm also a Software Engineer Intern at the Allen Institute for Brain Science!
 - ☁️ Passions: developing software that have a meaningful impact that works for everyone, computing education, and making technology more accessible for underprivledged communitites.
+* huh
 
 <!--
 **cleoreyes/cleoreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
