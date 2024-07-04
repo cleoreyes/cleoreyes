@@ -5,6 +5,7 @@
     - developing software that has a meaningful impact and that works for everyone
     - computing education
     - making technology more accessible for underrepresented and underprivledged communitites.
+
 If you'd like to connect my email is creyes25@uw.edu!
 
 <!--
