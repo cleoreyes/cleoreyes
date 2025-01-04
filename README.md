@@ -1,6 +1,6 @@
 ## Hi, I'm Cleo! 👋
 - 🏫 I'm currently an undergraduate at the University of Washington studying Informatics on the software engineering track!
-- 📥 I am currently a Software Engineer Intern at the Allen Institute for Brain Science!
+- 📥 Prev. Software Engineer Intern @ Allen Institute
 - ☁️ Passions:
     - developing software that has a meaningful impact and that works for everyone
     - computing education
