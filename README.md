@@ -1,5 +1,5 @@
 ## Hi, I'm Cleo! 👋
-- 🏫 I'm currently an undergraduate at the University of Washington studying Informatics on the software engineering track!
+- 🏫 I'm currently an undergraduate at the University of Washington studying Informatics and Computer Science!
 - 📥 Prev. Software Engineer Intern @ Allen Institute
 - ☁️ Passions:
     - developing software that has a meaningful impact and that works for everyone
