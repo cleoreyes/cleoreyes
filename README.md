@@ -1,24 +1,53 @@
 ## Hi, I'm Cleo! 👋
-- 🏫 I'm currently an undergraduate at the University of Washington studying Informatics and Computer Science!
-- 📥 Prev. Software Engineer Intern @ Allen Institute
-- ☁️ Passions:
-    - developing software that has a meaningful impact and that works for everyone
-    - computing education
-    - making technology more accessible for underrepresented and underprivledged communitites.
+### ✨ Welcome to my profile! ✨
 
-If you'd like to connect my email is creyes25@uw.edu!
+Read more about me @ www.cleoreyes.com!
 
-<!--
-**cleoreyes/cleoreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const CleoReyes = {
+  mood: "optimistic ⭐️",
 
-Here are some ideas to get you started:
+  personal: {
+    pronouns: "he/him/his",
+    located: "Seattle, WA",
+  },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  education: {
+    school: "University of Washington - Seattle",
+    major: "Informatics + Computer Science",
+  },
+
+  currently: "Internship Search",
+
+  prev: [
+    "Allen Institute",
+    "MESH",
+    "UW Code and Cognition Lab",
+    "UW DAIS Group",
+  ],
+
+  skills: {
+    techStack: [
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Next.js"
+      "Redux",
+      "GraphQL",
+      "Python",
+      "SQL",
+      "C#",
+      "C++",
+      "Express.js",
+      "Node.js",
+      "Git",
+      "R",
+      "Firebase",
+      "HTML",
+      "CSS",
+    ],
+    tools: ["AWS", "GitHub", "VSCode", "Figma", ],
+  },
+};
+```
