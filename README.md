@@ -17,7 +17,7 @@ const CleoReyes = {
     major: "Informatics + Computer Science",
   },
 
-  currently: "Internship Search",
+  currently: "Internship Search for Spring 2025 and Fall 2025",
 
   prev: [
     "Allen Institute",
@@ -47,7 +47,7 @@ const CleoReyes = {
       "HTML",
       "CSS",
     ],
-    tools: ["AWS", "GitHub", "VSCode", "Figma", ],
+    tools: ["AWS", "Azure", "GitHub", "VSCode", "Figma"],
   },
 };
 ```
