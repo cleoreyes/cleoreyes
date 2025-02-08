@@ -14,7 +14,7 @@ const CleoReyes = {
 
   education: {
     school: "University of Washington - Seattle",
-    major: "Informatics + Computer Science",
+    studying: "Informatics + Computer Science",
   },
 
   currently: "Internship Search for Spring 2025 and Fall 2025",
