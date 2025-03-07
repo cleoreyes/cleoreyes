@@ -1,7 +1,7 @@
 ## Hi, I'm Cleo! 👋
 ### ✨ Welcome to my profile! ✨
 
-Read more about me @ www.cleoreyes.com!
+Read more about me at www.cleoreyes.com!
 
 ```javascript
 const CleoReyes = {
@@ -9,15 +9,15 @@ const CleoReyes = {
 
   personal: {
     pronouns: "he/him/his",
-    located: "Seattle, WA",
+    location: "Seattle, WA",
   },
 
   education: {
     school: "University of Washington - Seattle",
-    studying: "Informatics + Computer Science",
+    studying: "Informatics, Computer Science",
   },
 
-  currently: "Internship Search for Spring 2025 and Fall 2025",
+  currently: "Searching for off-season internships!",
 
   prev: [
     "Allen Institute",
@@ -46,8 +46,9 @@ const CleoReyes = {
       "Firebase",
       "HTML",
       "CSS",
+      "Bash"
     ],
-    tools: ["AWS", "Azure", "GitHub", "VSCode", "Figma"],
+    tools: ["Amazon Web Services (AWS)", "Azure", "GitHub", "Visual Studio Code", "Figma"]
   },
 };
 ```
