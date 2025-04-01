@@ -8,7 +8,8 @@ const CleoReyes = {
   mood: "optimistic ⭐️",
   pronouns: "he/him/his",
   location: "Seattle, WA",
-  education: "Informatics @ UW Seattle",
+  school: "University of Washington",
+  studying: [Informatics, Computer Science],
   currently: "Searching for off-season internships!",
 
   previousExperience: [
