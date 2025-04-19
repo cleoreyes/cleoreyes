@@ -3,30 +3,6 @@
 
 Read more about me at www.cleoreyes.com!
 
-```javascript
-const CleoReyes = {
-  mood: "optimistic ⭐️",
-  pronouns: "he/him/his",
-  location: "Seattle, WA",
-  school: "University of Washington",
-  studying: [Informatics, Computer Science],
-  currently: "Searching for off-season internships!",
+I am a student at the University of Washington, studying Informatics and Computer Science.
 
-  previousExperience: [
-    "Allen Institute",
-    "MESH",
-    "UW Code & Cognition Lab",
-    "UW DAIS Group"
-  ],
-
-  skills: {
-    techStack: [
-      "Java", "JavaScript", "TypeScript", "React.js", "Next.js", "Redux",
-      "GraphQL", "Python", "SQL", "C#", "C++", "Express.js", "Node.js",
-      "Git", "R", "Firebase", "HTML", "CSS", "Bash"
-    ],
-    tools: ["AWS", "Azure", "GitHub", "VS Code", "Figma"]
-  }
-};
-
-```
+I possess a diverse technical skill set, including proficiency in programming languages and frameworks such as Java, JavaScript, TypeScript, React.js, Next.js, Redux, GraphQL, Python, SQL, C#, C++, Express.js, Node.js, Git, R, Firebase, HTML, CSS, and Bash.
