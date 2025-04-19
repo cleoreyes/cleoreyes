@@ -1,5 +1,5 @@
 ## Hi, I'm Cleo! 👋
-### ✨ Welcome to my profile! ✨
+### Welcome to my profile!
 
 Read more about me at www.cleoreyes.com!
 
